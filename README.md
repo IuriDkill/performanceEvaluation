@@ -77,5 +77,3 @@ Finalmente, execute o script `run.sh`:
 O script `run.sh` irá gerar 10 arquivos CSV contendo os resultados dos testes de desempenho, que serão armazenados na pasta `results`.
 
 ---
-
-### Script `run.sh`
